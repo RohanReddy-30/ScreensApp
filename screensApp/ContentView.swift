@@ -16,6 +16,10 @@ struct ContentView: View {
                     .font(.largeTitle)
                     .fontWeight(.bold)
                     .foregroundStyle(.white)
+                Text("tharun")
+                    .font(.largeTitle)
+                    .fontWeight(.bold)
+                    .foregroundStyle(.white)
             }
         }
         .ignoresSafeArea()
